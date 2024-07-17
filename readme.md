@@ -1,1 +1,1 @@
-# ovo je moj srpski rečnik
+# moj srpski rečnik
